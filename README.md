@@ -10,7 +10,7 @@ Este projeto constrói uma API REST profissional e de alta performance utilizand
 - **Governança:** Git/GitHub
 
 ## 📈 Status do Progresso
-- [ ] **Passo 1:** Configuração da infraestrutura do servidor e banco de dados.
-- [ ] **Passo 2:** Criação das rotas de consulta (GET) de histórico econômico.
-- [ ] **Passo 3:** Implementação do endpoint de previsão de IA (POST).
-- [ ] **Passo 4:** Documentação interativa (Swagger) e entrega final.
+- [x] **Passo 1:** Configuração da infraestrutura do servidor e banco de dados.
+- [x] **Passo 2:** Criação das rotas de consulta (GET) de histórico econômico.
+- [x] **Passo 3:** Implementação do endpoint de previsão de IA (POST).
+- [x] **Passo 4:** Documentação interativa (Swagger) e entrega final.
